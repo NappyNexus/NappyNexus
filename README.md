@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nappynexus&label=Profile%20views&color=0e75b6&style=flat" alt="nappynexus" /> </p>
 
-- 🌱 I’m currently learning **JavaScript & TypeScript**
+- 🌱 Currently learning **JavaScript & TypeScript**
 
 - 📫 How to reach me **gabrielsoriano172@gmail.com**
 
