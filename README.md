@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gabriel Soriano</h1>
-<h3 align="center">A passionate front-end developer from Dominican Republic</h3>
+<h1 align="center">Hello, I'm Gabriel Soriano</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nappynexus&label=Profile%20views&color=0e75b6&style=flat" alt="nappynexus" /> </p>
-
-- 🌱 Currently learning **JavaScript & TypeScript**
 
 - 📫 How to reach me **gabrielsoriano172@gmail.com**
 
