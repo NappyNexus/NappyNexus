@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Gabriel Soriano</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nappynexus&label=Profile%20views&color=0e75b6&style=flat" alt="nappynexus" /> </p>
-
 - 📫 How to reach me **gabrielsoriano172@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
