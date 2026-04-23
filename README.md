@@ -13,17 +13,17 @@
 
 ---
 
-### 💻 About Me
+### About Me
 I'm a **Software Developer** focused on building beautiful, performant mobile experiences. When I'm not tweaking my **Fedora** desktop, I'm deep optimizing production ratios in **Satisfactory**.
 
-- 🚀 Currently building **NexEdHub**.
-- 🛠️ Expert in **Flutter + Riverpod** state management.
-- 🎨 UI/UX design enthusiast using **Figma**.
-- 🐧 Proud Linux user (Fedora) and hardware tinkerer.
+- Currently building **NexEdHub**.
+- Expert in **Flutter + Riverpod** state management.
+- UI/UX design enthusiast using **Figma**.
+- Proud Linux user (Fedora) and hardware tinkerer.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <table align="center">
   <tr>
@@ -74,7 +74,7 @@ I'm a **Software Developer** focused on building beautiful, performant mobile ex
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NappyNexus&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats" />
   <br />
