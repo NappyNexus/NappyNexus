@@ -76,9 +76,9 @@ I'm a **Software Developer** focused on building beautiful, performant mobile ex
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NappyNexus&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NappyNexus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
