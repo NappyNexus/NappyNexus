@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007AFF&height=200&section=header&text=Gabriel%20Soriano&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</div>
-
-<div align="center">
   <a href="https://linkedin.com/in/gabriel-s-dl-cruz">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
