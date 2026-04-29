@@ -13,7 +13,6 @@
 I'm a **Software Developer** focused on building beautiful, performant mobile experiences. When I'm not tweaking my **Fedora** desktop, I'm deep optimizing production ratios in **Satisfactory**.
 
 - Currently building **NexEdHub**.
-- Expert in **Flutter + Riverpod** state management.
 - UI/UX design enthusiast using **Figma**.
 - Proud Linux user (Fedora) and hardware tinkerer.
 
